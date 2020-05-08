@@ -5,3 +5,8 @@ I created this to help ease the need to make mundane calculations in instances w
 
 ## Improvements to make
 Definitely could incorporate a function to automatically output your GPA if the amount of classes you inputted is reached.
+
+## Link to Replit Code:
+Link: https://repl.it/@DylanNguyen14/GPA-Calculator
+## Link to Replit Program:
+Link: https://GPA-Calculator.dylannguyen14.repl.run
